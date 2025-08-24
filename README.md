@@ -95,7 +95,7 @@
 
 <hr>
 <div style="display: flex;" >
-    <img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhgo21&layout=compact" alt="Dhruv Goyal" />
+    <img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SM04-cmd&layout=compact" alt="Satya Mishra" />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SM04-cmd&theme=dark" alt="GitHub Streak" /></a>
   </div>
 <hr />
