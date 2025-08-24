@@ -73,9 +73,9 @@
       </tr>
       <tr>
         <td>1.</td>
-        <td>SwiftMart (E-Commerce Site)</td>
-        <td>ReactJS</td>
-        <td>https://swift-mart-ecommerce.netlify.app/</td>
+        <td>Revv Car Rental Site</td>
+        <td>HTML, CSS, JS</td>
+        <td>https://revv-car-rental-website.netlify.app/</td>
       </tr>
       <tr>
         <td>2.</td>
