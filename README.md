@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/SM04-cmd
 
-- 💬 Ask me about **Javascript , HTML , CSS , React.**
+- 💬 Ask me about **Javascript , HTML , CSS.**
 
 - 📫 How to reach me LinkedIn ** <a color = "red" href="https://www.linkedin.com/in/satya-mishra03/">LinkedIn</a> **
 
@@ -37,11 +37,6 @@
 <td width="200px" align="center">
 <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-</td>
-
-<td width="200px" align="center">
-<span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
-<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
 </td>
 </tr>
 
