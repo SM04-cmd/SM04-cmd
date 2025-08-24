@@ -79,21 +79,15 @@
       </tr>
       <tr>
         <td>2.</td>
-        <td>TreackTendace App</td>
-        <td>HTML, CSS, JS, PHP, MYSQL</td>
-        <td>https://attendance-app.free.nf/</td>
+        <td>DesignDeck IDE</td>
+        <td>HTML, CSS, JS</td>
+        <td>https://designdeckide.netlify.app/</td>
       </tr>
       <tr>
         <td>3.</td>
-        <td>Pic2Page</td>
+        <td>Basic Banking Webapp</td>
         <td>HTML, CSS, JS</td>
-        <td>https://pic-2-page.netlify.app/</td>
-      </tr>
-      <tr>
-        <td>4.</td>
-        <td>MiniCart App</td>
-        <td>React JS, Redux</td>
-        <td>https://minicartapp.netlify.app/</td>
+        <td>https://basicbankingsystemsite.netlify.app/</td>
       </tr>
     </tbody>
   </table>
